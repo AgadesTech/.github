@@ -1,6 +1,6 @@
 # Agades Technologies
 
-Agades Technologies is a research company building AI systems for cryptographic security.
+Agades Technologies is an independent research initiative exploring AI systems for cryptographic security.
 
 We study attack spaces as search problems: lattices, candidate strategies, program structure, estimators, proofs, and reproducible evaluation loops. Our public work focuses on post-quantum cryptanalysis research and evaluator-driven evolutionary program synthesis.
 
